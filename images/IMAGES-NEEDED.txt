@@ -1,0 +1,10 @@
+Required Images:
+
+1. favicon.ico (16x16 or 32x32 pixels)
+2. manufacturing.jpg (600x400 pixels)
+3. roller-blinds.jpg (400x300 pixels)
+4. vertical-blinds.jpg (400x300 pixels)
+5. curtains.jpg (400x300 pixels)
+6. showroom.jpg (600x400 pixels)
+
+Total: 6 images needed for the website to display properly.
