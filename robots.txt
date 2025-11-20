@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thisdomaindontexist123.ddd/sitemap.xml
